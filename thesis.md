@@ -1,3 +1,4 @@
 #My great thesis
-Author: Mónica Torres
+Author: Mónica A. Torres González
+
 
