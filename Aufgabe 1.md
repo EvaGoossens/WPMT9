@@ -13,5 +13,14 @@ Sommersemester 2020
 
 
 
+**Inhaltsverzeichnis**
+# datenintensiven Prozessen in der Bibliothek der Fachhochschule Südwestfalen
+## Schnittstellen
+### 
+
+
+
+
+
 
 
