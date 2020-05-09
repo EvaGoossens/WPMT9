@@ -21,6 +21,38 @@ Die Erfassung der Exemplardaten erfolgt auf zwei Unterschiedlichen Weisen da es 
 |Exemplarstatus| X am Ende der Signatur = Exemplarstatus 40 (keine Ausleihe) XY am Ende der Signatur = Exemplarstatus 50 (Sonderstandort). W und W/IV: jedes 3. Ex. nicht ausleihbar|  Gleiches Vorgehen wie in Hagen   | Gerade Zahlen = 78 (für Meschede). Jedes 3. Ex. nicht ausleihbar. |86 (für Soest) = Sonderstandort|
 |Aufbau der Signaturen (gilt für alle vier Fachbibliotheken)| Standortkürzel + Systemstelle + Nummerus currens + ggf. Auflage + ggf. Bandzählung + ggf. Mehrfachexemplar |
 
+## Signaturbeispiele: 
+-Hagen: E/ZB-Sak 4/1:15P
+  * E/ZB =Standort Präfix
+  * -Sak =Systemstelle 
+  * 4/1 =Nummerus currens/Band
+  * :15 =Auflage
+  * P =Mehrfachexemplar (Exemplar Nummer 17)
+  
+-Iserlohn: M/P-Sak 6/1:15F
+  * M/P =Standort Präfix
+  * -Sak =Systemstelle 
+  * 6/1 =Numerus currens/Band
+  * :15 =Auflage 
+  * F =Mehrfachexemplar (Exemplar 7)
+
+-Meschede: 77TSE4612(11)-1+1 
+  * 77 =Standort Präfix
+  * TSE =Systemstelle 
+  * 4612 =Numerus currens
+  * (11)=Auflage
+  * -1 =Band
+  * +1 =Mehrfachexemplar (Exemplar 2)
+
+-Soest: 81TSE4699(2)-1+4 
+  * 81 =Standort Präfix
+  * TSE =Systemstelle 
+  * 4699	 =Numerus currens
+  * (2) =Auflage
+  * -1 =Band
+  * +4 =Mehrfachexemplar (Exemplar 5)
+
+Ein Beispiel für den Standort Soest wird folgendes betrachtet um zwar Emile ou über die Erziehung von  Jean-Jacques Rousseau. Es wurden 10 Exemplares für diese Zweigstelle erworben und ich musste zwei Felder ändern durch Copy Paste: die Signatur, insbesondere die Exemplarnummer und die Inventarnummer. Das Ergebnis der 10 Exemplare sieht in ALEPH Katalogisierungsmodul so aus:
 
 
 
