@@ -52,11 +52,30 @@ Die Erfassung der Exemplardaten erfolgt auf zwei Unterschiedlichen Weisen da es 
   * -1 =Band
   * +4 =Mehrfachexemplar (Exemplar 5)
 
-Ein Beispiel für den Standort Soest wird folgendes betrachtet um zwar Emile ou über die Erziehung von  Jean-Jacques Rousseau. Es wurden 10 Exemplares für diese Zweigstelle erworben und ich musste zwei Felder ändern durch Copy Paste: die Signatur, insbesondere die Exemplarnummer und die Inventarnummer. Das Ergebnis der 10 Exemplare sieht in ALEPH Katalogisierungsmodul so aus:
+Ein Beispiel für den Standort Soest wird folgendes betrachtet um zwar Emile ou über die Erziehung von  Jean-Jacques Rousseau. Es wurden 10 Exemplares für diese Zweigstelle erworben und ich musste zwei Felder ändern durch Copy Paste: die Signatur, 2. Signatur und die Inventarnummer. Das Ergebnis der 10 Exemplare sieht in ALEPH Katalogisierungsmodul so aus [4], [5]:
 
+In Bereich Erfassung der Exemplardaten werden drei Optimierungsmöglichkeiten entdeckt. Erstens ist das Feld 2.Signaturtyp. Dieses muss ausgefühlt werden, damit das Medium über KAI (das Discovery System VuFind der Fachbibliothek) durchsuchbar ist. Hier muss man die frisch erzeugte Signatur ohne den Standort Präfix  (E/ZB- ; W ; W/IV für Hagen; M/P- für Iserlohn; 76 und 77 für Meschede und 81, 82, 85 und 86 für Soest) kopieren. Mir ist schon mal passiert, dass ich dieses Feld übersehen habe und folglich ist das Buch nicht von dem Kunde findbar. Als Vorschlag würde ich empfehlen, dass die Daten nicht gespeichert werden können, bis dieses Feld mit Informationen ausgefüllt wird. Andere Möglichkeit wäre, dass der Inhalt des 2.Signaturtyp automatisch erzeugt würde mittels des vorherigen Signatur Feldes.
+Der zweite Verbesserungsvorschlag betrifft das Feld Inventarnummer. Jedes Exemplar hat eine Inventarnummer und diese muss in dieses Feld geschrieben werden. Bei mehrere Exemplare fast die gleiche Nummer kopieren außer die letzten zwei Ziffern könnte eine mühsame Aufgabe werden. Eine automatische Erzeugung der Nummer wäre in diesem Fall auch erwünscht.
 
+Die dritte Optimierungsmöglichkeit bezieht sich auf den Standort Präfix für Soest.  Da es zwei unterschiedliche Präfixe gibt, muss man überprüfen zu welche Disziplin das Medium gehört, bevor diese Angabe mit der Systemstelle usw. in das Signatur Feld eingegeben wird. Die Vereinfachung dieses Verfahren würde mittels einer mini Datenbank. Sie enthält die unterschiedlichen Stellen der Gesamthochschulbibliothekssystematik (GHBS), die in Soest genutzt werden, und die dazugehörigen Präfixen. Eine Anfrage in diese Datenbank wird stattfinden, bevor die Signatur für die Medien von Soest erzeugt wird. Einige Signaturen und deren Präfixe werden in der folgenden Tabelle angezeigt.
+
+|Präfix| Signatur|
+|------|---------|
+|81| IIS|
+|  | PZI|
+|  | IGFA|
+|  | AGD|
+|85| IKC|
+| | IEH|
+| | IAZ|
+| | HVH|
+| | ROJ|
+
+Das Ergebnis dieser Anfrage wird auf dem Signatur Feld angezeigt und somit die Suche in anderen Sourcen vermieden.   Zusammendfassend wurden in dieser Arbeit drei Optimierungsmöglichkeiten auf ebene der Exemplardaten in ALEPH Katalogisierungsmodul der FHSwf präsentiert. 
 
 
 [1]: https://www4.fh-swf.de/de/home/studierende/bibliothek/beruns/allgemeines_3/index.php/ "FH-SWF Allgemeines"
 [2]: https://www.hbz-nrw.de/produkte/verbunddienstleistungen/verbundsystem "HBZ Verbundsystem"
 [3]: http://confluence.fhb.fh-swf.de/display/TEAM2/Lokaldaten "Wiki Fachbibliotheken FHSwf"
+[4]: https://commons.wikimedia.org/wiki/File:Exemplar_Ansicht.jpg "Exemplar Ansicht"
+[5]: https://commons.wikimedia.org/wiki/File:Inventar_nummer.jpg "Inverntarnummer Ansicht"
