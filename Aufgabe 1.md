@@ -12,7 +12,19 @@ Die hbz-Verbunddatenbank wird mit der Bibliothekssoftware Aleph der Firma Ex Lib
 
 Die Bestandsdaten (Exemplarnachweise) werden aus den lokalen Systemen der Verbundbibliotheken in die hbz-Verbunddatenbank hochgeladen [2].
 
-Die Erfassung der Exemplardaten erfolgt auf zwei Unterschiedlichen Weisen da es zwei unterschiedliche Klassifikationssysteme gibt: die Allgemeine Systematik für öffentliche Bibliotheken (ASB), für die Standorte Hagen und Iserlohn und die Gesamthochschulbibliothekssystematik (GHBS), die in den Standorte Meschede und Soest angewendet ist. Eine Anleitung um ein neues Exemplar in der Fachbibliotheken hinzufügen ist auf der Institutionellen Wiki zur Verfügung. Diese Anleitung wurde als Grundlage für die folgende Tabelle genutzt:
+Die Erfassung der Exemplardaten erfolgt auf zwei Unterschiedlichen Weisen da es zwei unterschiedliche Klassifikationssysteme gibt: die Allgemeine Systematik für öffentliche Bibliotheken (ASB), für die Standorte Hagen und Iserlohn und die Gesamthochschulbibliothekssystematik (GHBS), die in den Standorte Meschede und Soest angewendet ist. Eine Anleitung um ein neues Exemplar in der Fachbibliotheken hinzufügen ist auf der Institutionellen Wiki [3] zur Verfügung. Diese Anleitung wurde als Grundlage für die folgende Tabelle genutzt:
+
+|Standort       |	Hagen            |	Iserlohn      |	Meschede                  |	Soest                            |
+|---------------|------------------|--------------- |----------------------------|----------------------------------|
+|Präfix         |	 E/ZB- ; W ; W/IV| 	M/P-	        | * 76: Medium nicht ausleihbar  * 77: allgemeiner Bestand	 | * 80/81/ = Maschinenbau, E-Technik  * 84/85= Agrarwiss., Frühpädagogik.|
+|Numerus Currens|	Manuell vergeben. Exemplarzählung durch Buchstaben. Nicht benutzte Exemplarbuchstaben: I, J, O	Automatische Vergabe.| Gleiches Vorgehen wie in Hagen | Signaturzähler "i" rechts neben dem Feld Signatur einstellen, hinter die Systematikgruppe "?" eingeben.  * Mehrfachexemplare durch +1,... kennzeichnen| Gleiches Vorgehen wie in Meschede|
+|Exemplarstatus| X am Ende der Signatur = Exemplarstatus 40 (keine Ausleihe) XY am Ende der Signatur = Exemplarstatus 50 (Sonderstandort). W und W/IV: jedes 3. Ex. nicht ausleihbar|  Gleiches Vorgehen wie in Hagen   | Gerade Zahlen = 78 (für Meschede). Jedes 3. Ex. nicht ausleihbar. |86 (für Soest) = Sonderstandort|
+|Aufbau der Signaturen (gilt für alle vier Fachbibliotheken)| Standortkürzel + Systemstelle + Nummerus currens + ggf. Auflage + ggf. Bandzählung + ggf. Mehrfachexemplar |
+
+
+
+
 
 [1]: https://www4.fh-swf.de/de/home/studierende/bibliothek/beruns/allgemeines_3/index.php/ "FH-SWF Allgemeines"
 [2]: https://www.hbz-nrw.de/produkte/verbunddienstleistungen/verbundsystem "HBZ Verbundsystem"
+[3]: http://confluence.fhb.fh-swf.de/display/TEAM2/Lokaldaten "Wiki Fachbibliotheken FHSwf"
