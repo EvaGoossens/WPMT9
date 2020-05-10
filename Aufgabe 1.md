@@ -83,8 +83,8 @@ Das Ergebnis dieser Anfrage wird auf dem Signatur Feld angezeigt und somit die S
 
 ## Quellenverzeichnis
 
-[1](https://www4.fh-swf.de/de/home/studierende/bibliothek/beruns/allgemeines_3/index.php/)  FH-SWF Allgemeines
+[1](https://www4.fh-swf.de/de/home/studierende/bibliothek/beruns/allgemeines_3/index.php/)  Fachhochschule Südwestfalen: FH-SWF Allgemeines 2/28/2020
 
-[2](https://www.hbz-nrw.de/produkte/verbunddienstleistungen/verbundsystem) HBZ Verbundsystem
+[2](https://www.hbz-nrw.de/produkte/verbunddienstleistungen/verbundsystem) Hochschulbibliothekszentrum NRW: hbz Verbundsystem 2020
 
-[3](http://confluence.fhb.fh-swf.de/display/TEAM2/Lokaldaten) Wiki Fachbibliotheken FHSwf
+[3](http://confluence.fhb.fh-swf.de/display/TEAM2/Lokaldaten) Fachhochschule Südwestfalen: Wiki Fachbibliotheken FHSwf 2020
