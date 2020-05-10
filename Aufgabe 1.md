@@ -56,7 +56,10 @@ Die Erfassung der Exemplardaten erfolgt auf zwei unterschiedliche Weisen, da es 
   * -1 =Band
   * +4 =Mehrfachexemplar (Exemplar 5)
 
-Als Beispiel für den Standort Soest wird folgendes betrachtet und zwar *Emile oder über die Erziehung* von Jean-Jacques Rousseau. Es wurden 10 Exemplare für diese Zweigstelle erworben und ich musste zwei Felder durch Copy Paste ändern: die Signatur, 2. Signatur und die Inventarnummer. Das Ergebnis der 10 Exemplare sieht im Aleph Katalogisierungsmodul so aus [4], [5]:
+Als Beispiel für den Standort Soest wird folgendes betrachtet und zwar *Emile oder über die Erziehung* von Jean-Jacques Rousseau. Es wurden 10 Exemplare für diese Zweigstelle erworben und ich musste zwei Felder durch Copy Paste ändern: die Signatur, 2. Signatur und die Inventarnummer. Das Ergebnis der 10 Exemplare sieht im Aleph Katalogisierungsmodul so aus:
+
+![4](https://i.imgur.com/V4kQtsp.jpg)
+![5](https://i.imgur.com/h9ANGzG.jpg)
 
 Im Bereich Erfassung der Exemplardaten werden drei Optimierungsmöglichkeiten entdeckt. Die Erste ist das Feld 2.Signaturtyp. Dieses muss ausgefüllt werden, damit das Medium über KAI (das Discovery System VuFind der Fachbibliothek) durchsuchbar ist. Hier muss man die frisch erzeugte Signatur ohne den Standort Präfix  (E/ZB- ; W ; W/IV für Hagen; M/P- für Iserlohn; 76 und 77 für Meschede und 81, 82, 85 und 86 für Soest) kopieren. Mir ist es schon mal passiert, dass ich dieses Feld übersehen habe und folglich ist das Buch für den Kunden nicht findbar. Als Vorschlag würde ich empfehlen, dass die Daten nicht gespeichert werden können, bis dieses Feld mit Informationen ausgefüllt wird. Eine andere Möglichkeit wäre, den Inhalt des 2.Signaturtyp automatisch zu erzeugen mittels des vorherigen Signatur Feldes. Hiermit könnte zugleich eine automatisierte Kontrolle des Signatur Feldes erfolgen.
 
@@ -80,8 +83,8 @@ Das Ergebnis dieser Anfrage wird auf dem Signatur Feld angezeigt und somit die S
 
 ## Quellenverzeichnis
 
-[1]: https://www4.fh-swf.de/de/home/studierende/bibliothek/beruns/allgemeines_3/index.php/ "FH-SWF Allgemeines"
-[2]: https://www.hbz-nrw.de/produkte/verbunddienstleistungen/verbundsystem "HBZ Verbundsystem"
-[3]: http://confluence.fhb.fh-swf.de/display/TEAM2/Lokaldaten "Wiki Fachbibliotheken FHSwf"
-[4]: https://commons.wikimedia.org/wiki/File:Exemplar_Ansicht.jpg "Exemplar Ansicht"
-[5]: https://commons.wikimedia.org/wiki/File:Inventar_nummer.jpg "Inverntarnummer Ansicht"
+[1](https://www4.fh-swf.de/de/home/studierende/bibliothek/beruns/allgemeines_3/index.php/)  FH-SWF Allgemeines
+
+[2](https://www.hbz-nrw.de/produkte/verbunddienstleistungen/verbundsystem) HBZ Verbundsystem
+
+[3](http://confluence.fhb.fh-swf.de/display/TEAM2/Lokaldaten) Wiki Fachbibliotheken FHSwf
