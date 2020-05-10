@@ -79,3 +79,16 @@ Das Ergebnis dieser Anfrage wird auf dem Signatur Feld angezeigt und somit die S
 [3]: http://confluence.fhb.fh-swf.de/display/TEAM2/Lokaldaten "Wiki Fachbibliotheken FHSwf"
 [4]: https://commons.wikimedia.org/wiki/File:Exemplar_Ansicht.jpg "Exemplar Ansicht"
 [5]: https://commons.wikimedia.org/wiki/File:Inventar_nummer.jpg "Inverntarnummer Ansicht"
+
+# Quellen
+
+[1](/lRn5oAsqQZWyghSrEmVmBQ): https://www4.fh-swf.de/de/home/studierende/bibliothek/beruns/allgemeines_3/index.php/ "FH-SWF Allgemeines"
+
+[2](/gvrfnd38TaaqT9KToARxDA): https://www.hbz-nrw.de/produkte/verbunddienstleistungen/verbundsystem "HBZ Verbundsystem"
+
+[3](/tutPOrUDTGGM7AW8zxoJjA): http://confluence.fhb.fh-swf.de/display/TEAM2/Lokaldaten "Wiki Fachbibliotheken FHSwf"
+
+[4](/rhiV_FL_QpWFxQUgHWdBqQ): https://commons.wikimedia.org/wiki/File:Exemplar_Ansicht.jpg "Exemplar Ansicht"
+
+[5](/Rl66lDa3QQatD0aKO5WpOA): https://commons.wikimedia.org/wiki/File:Inventar_nummer.jpg "Inverntarnummer Ansicht"
+
